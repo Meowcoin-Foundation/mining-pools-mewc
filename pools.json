@@ -687,62 +687,57 @@
   },
   {
     "id": 97,
-    "name": "LaYPLu..6wHEZ",
-    "addresses": ["LaYPLuQEanVCYM9TztR9FuT3ZbTJM6wHEZ"]
-  },
-  {
-    "id": 98,
     "name": "Spiderpool",
     "addresses": ["LPGxidDpG11iL4tdrdhxyJA4nTZWsKssok"],
     "tags": ["SpiderPool"],
     "link": "https://www.spiderpool.com/"
   },
   {
-    "id": 99,
+    "id": 98,
     "name": "dogegogo.com",
     "tags": ["dogegogo.com", "dogepool.ai"],
     "link": "https://dogegogo.com/en"
   },
   {
-    "id": 100,
+    "id": 99,
     "name": "Hash Space",
     "tags": ["HashSpace"],
     "link": "https://www.hashspace.one/"
   },
   {
-    "id": 101,
+    "id": 100,
     "name": "LongPool",
     "tags": ["GoodLuckyBoom"],
     "link": "https://longpool.org/"
   },
   {
-    "id": 102,
+    "id": 101,
     "name": "molepool",
     "tags": ["molepool.com"],
     "link": "https://ltc.molepool.com"
   },
   {
-    "id": 103,
+    "id": 102,
     "name": "hash-hut",
     "tags": ["hash-hut.net"],
     "link": "https://hash-hut.net"
   },
   {
-    "id": 104,
+    "id": 103,
     "name": "Rplant",
     "addresses": [],
     "tags": ["pool.rplant.xyz"],
     "link": "https://pool.rplant.xyz"
   },
   {
-    "id": 105,
+    "id": 104,
     "name": "BlockMinerz",
     "addresses": [],
     "tags": ["BlockMinerz.com", "CoinMinerz"],
     "link": "https://blockminerz.com"
   },
   {
-    "id": 106,
+    "id": 105,
     "name": "ZPool",
     "addresses": [],
     "tags": ["zpool.ca"],
