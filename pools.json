@@ -726,5 +726,26 @@
     "name": "hash-hut",
     "tags": ["hash-hut.net"],
     "link": "https://hash-hut.net"
+  },
+  {
+    "id": 104,
+    "name": "Rplant",
+    "addresses": [],
+    "tags": ["pool.rplant.xyz"],
+    "link": "https://pool.rplant.xyz"
+  },
+  {
+    "id": 105,
+    "name": "BlockMinerz",
+    "addresses": [],
+    "tags": ["BlockMinerz.com", "CoinMinerz"],
+    "link": "https://blockminerz.com"
+  },
+  {
+    "id": 106,
+    "name": "ZPool",
+    "addresses": [],
+    "tags": ["zpool.ca"],
+    "link": "https://zpool.ca"
   }
 ]
