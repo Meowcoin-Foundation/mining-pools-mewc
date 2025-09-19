@@ -770,5 +770,12 @@
     "addresses": ["ML9kcYEKQbMoCUcbeaRzJJqMEV1ogC2thq"],
     "tags": [],
     "link": "https://meowcoin.cedric-crispin.com/"
+  },
+  {
+    "id": 110,
+    "name": "PMPMining",
+    "addresses": ["MAyHLYwpGFst1d5qTiBEYFMHUwhs5vqHbk"],
+    "tags": [],
+    "link": "https://www.pmpmining.com"
   }
 ]
