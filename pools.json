@@ -742,5 +742,33 @@
     "addresses": [],
     "tags": ["zpool.ca"],
     "link": "https://zpool.ca"
+  },
+  {
+    "id": 106,
+    "name": "Zergpool",
+    "addresses": ["MNNscrVJuL4QdUUZtDwyVzNDMFtVRheFyN"],
+    "tags": [],
+    "link": "https://zergpool.com"
+  },
+  {
+    "id": 107,
+    "name": "CrimsonFusion",
+    "addresses": ["MVcrxVhTFNXvRXVfQZhBWGoQTA7hEBLho8"],
+    "tags": ["/CrimsonFusion.org/"],
+    "link": "https://crimsonfusion.org/meow"
+  },
+  {
+    "id": 108,
+    "name": "WoolyPooly",
+    "addresses": ["MJZB52AYsoR9Rns5rkmERvY4xQ7TUGUKdy"],
+    "tags": [],
+    "link": "https://woolypooly.com"
+  },
+  {
+    "id": 109,
+    "name": "Cedric-Crispin",
+    "addresses": ["ML9kcYEKQbMoCUcbeaRzJJqMEV1ogC2thq"],
+    "tags": [],
+    "link": "https://meowcoin.cedric-crispin.com/"
   }
 ]
