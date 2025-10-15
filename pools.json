@@ -784,5 +784,12 @@
     "addresses": ["MRCZPxb7b1KtRArxu6fHNZYmYuHRyUDrbU"],
     "tags": [],
     "link": "https://www.mewccrypto.com/"
+  },
+  {
+    "id": 112,
+    "name": "Cminors-Pools",
+    "addresses": [],
+    "tags": ["Cminors-Pools"],
+    "link": "https://catcoin.premium-cminors-pools.com/"
   }
 ]
