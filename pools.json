@@ -791,5 +791,12 @@
     "addresses": [],
     "tags": ["Cminors-Pools"],
     "link": "https://catcoin.premium-cminors-pools.com/"
+  },
+  {
+    "id": 113,
+    "name": "HashHut",
+    "addresses": ["MNrKE2ztPMpXyAis7nvrYyJFXZymQMbmFG"],
+    "tags": ["hash-hut.net"], 
+    "link": "https://hash-hut.net"
   }
 ]
