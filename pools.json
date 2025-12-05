@@ -798,5 +798,12 @@
     "addresses": ["MNrKE2ztPMpXyAis7nvrYyJFXZymQMbmFG"],
     "tags": ["hash-hut.net"], 
     "link": "https://hash-hut.net"
+  },
+  {
+    "id": 114,
+    "name": "LSoftware DMCC",
+    "addresses": ["MSCqYiFKHZLUbg4aQjyqFpp4dsqQkCnYph"],
+    "tags": ["LSoftware"],
+    "link": "https://ls-tech.pro/"
   }
 ]
