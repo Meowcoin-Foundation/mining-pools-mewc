@@ -805,5 +805,19 @@
     "addresses": ["MSCqYiFKHZLUbg4aQjyqFpp4dsqQkCnYph"],
     "tags": ["LSoftware"],
     "link": "https://ls-tech.pro/"
+  },
+  {
+    "id": 115,
+    "name": "HashPoolPro",
+    "addresses": [],
+    "tags": ["/HashPoolPro/"],
+    "link": "https://hashpoolpro.com/"
+  },
+  {
+    "id": 116,
+    "name": "OneClickMiner",
+    "addresses": [],
+    "tags": ["OneClickMiner.com"],
+    "link": "https://oneclickminer.com/"
   }
 ]
