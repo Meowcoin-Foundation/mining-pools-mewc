@@ -819,5 +819,12 @@
     "addresses": [],
     "tags": ["OneClickMiner.com"],
     "link": "https://oneclickminer.com/"
+  },
+  {
+    "id": 117,
+    "name": "MeowPool",
+    "addresses": ["MW52Qr4vxaAUtkv83m9VzXRPPdeWsdQRm7"],
+    "tags": ["/meowcoin-pool/"],
+    "link": "https://meowpool.net/"
   }
 ]
