@@ -826,5 +826,12 @@
     "addresses": ["MJxkRTouowvThYhiJsrmUUGtcB1szrLQgL"],
     "tags": [],
     "link": "https://meowpool.net/"
+  },
+  {
+    "id": 118,
+    "name": "DexPool",
+    "addresses": ["MW52Qr4vxaAUtkv83m9VzXRPPdeWsdQRm7"],
+    "tags": [],
+    "link": ""
   }
 ]
