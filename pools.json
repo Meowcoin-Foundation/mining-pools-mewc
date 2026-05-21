@@ -833,5 +833,12 @@
     "addresses": ["MW52Qr4vxaAUtkv83m9VzXRPPdeWsdQRm7"],
     "tags": [],
     "link": ""
+  },
+  {
+    "id": 119,
+    "name": "Meowcoin Solo",
+    "addresses": [],
+    "tags": ["/MEWC-SOLO/"],
+    "link": ""
   }
 ]
