@@ -840,5 +840,12 @@
     "addresses": [],
     "tags": ["/MEWC-SOLO/"],
     "link": ""
+  },
+  {
+    "id": 120,
+    "name": "KolnluM",
+    "addresses": [],
+    "tags": ["koinomi.com"],
+    "link": "https://koinium.it/"
   }
 ]
